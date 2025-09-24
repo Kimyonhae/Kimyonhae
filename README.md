@@ -2,7 +2,6 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 
 <h3 align="left">A developer exploring the edge of what’s allowed and what’s not — with curiosity and code.</h1>
-<h3 align="left">A developer exploring the gray area between legal and illegal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimyonhae&label=Profile%20views&color=0e75b6&style=flat" alt="kimyonhae" /> </p>
 
